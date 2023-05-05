@@ -1,0 +1,16 @@
+/Users/sebastian/Projects/Final Practice/Final Practice/obj/Debug/net7.0/Final Practice.csproj.AssemblyReference.cache
+/Users/sebastian/Projects/Final Practice/Final Practice/obj/Debug/net7.0/Final Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastian/Projects/Final Practice/Final Practice/obj/Debug/net7.0/Final Practice.AssemblyInfoInputs.cache
+/Users/sebastian/Projects/Final Practice/Final Practice/obj/Debug/net7.0/Final Practice.AssemblyInfo.cs
+/Users/sebastian/Projects/Final Practice/Final Practice/obj/Debug/net7.0/Final Practice.csproj.CoreCompileInputs.cache
+/Users/sebastian/Projects/Final Practice/Final Practice/bin/Debug/net7.0/Final Practice
+/Users/sebastian/Projects/Final Practice/Final Practice/bin/Debug/net7.0/Final Practice.deps.json
+/Users/sebastian/Projects/Final Practice/Final Practice/bin/Debug/net7.0/Final Practice.runtimeconfig.json
+/Users/sebastian/Projects/Final Practice/Final Practice/bin/Debug/net7.0/Final Practice.dll
+/Users/sebastian/Projects/Final Practice/Final Practice/bin/Debug/net7.0/Final Practice.pdb
+/Users/sebastian/Projects/Final Practice/Final Practice/obj/Debug/net7.0/Final Practice.dll
+/Users/sebastian/Projects/Final Practice/Final Practice/obj/Debug/net7.0/refint/Final Practice.dll
+/Users/sebastian/Projects/Final Practice/Final Practice/obj/Debug/net7.0/Final Practice.pdb
+/Users/sebastian/Projects/Final Practice/Final Practice/obj/Debug/net7.0/Final Practice.genruntimeconfig.cache
+/Users/sebastian/Projects/Final Practice/Final Practice/obj/Debug/net7.0/ref/Final Practice.dll
+/Users/sebastian/Projects/Final Practice/Final Practice/bin/Debug/net7.0/users/users.json
